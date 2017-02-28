@@ -1,4 +1,14 @@
 .DS_Store
 node_modules/
-dist/
 npm-debug.log
+npm-debug.log.**
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
+.idea
+runTime/
+node_modules
+dist/u.php
+dist/up-rewrite.conf
+.gitignore
+resource/PSD
